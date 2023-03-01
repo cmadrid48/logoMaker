@@ -1,0 +1,27 @@
+{
+  "name": "10-logomaker",
+  "version": "1.0.0",
+  "description": "Creates a logo of your choice using JS",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmadrid48/logoMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmadrid48/logoMaker/issues"
+  },
+  "homepage": "https://github.com/cmadrid48/logoMaker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.3"
+  }
+}
