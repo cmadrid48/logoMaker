@@ -17,7 +17,7 @@ Print the message "Generated logo.svg" in the command line after the file is sav
 Display a 300x200 pixel image that matches the user's input when the logo.svg file is opened in a browser.
 
 ## Walkthrough Video
-Walkthrough Video to see a demonstration of the application's functionality and to ensure that it passes all tests, please refer to this [Walkthrough Video](https://pip.pypa.io/en/stable/).
+Walkthrough Video to see a demonstration of the application's functionality and to ensure that it passes all tests, please refer to this [Walkthrough Video](https://drive.google.com/file/d/14q1X8FlMAVy0BHkOGb59lfiYdyR7GWI1/view).
 
 
 
